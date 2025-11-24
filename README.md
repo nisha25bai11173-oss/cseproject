@@ -33,6 +33,3 @@ The Student Budget Tracker is a Python-based command-line application designed t
 2. Select option 2 to view the list and confirm the entry appears.
 3. Close the program and restart it to verify data is saved.
 4. Try entering text (like "abc") into the Amount field to test error handling.
-Close the program and restart it to verify data is saved.
-
-Try entering text (like "abc") into the Amount field to test error handling.
